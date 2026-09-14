@@ -1,7 +1,7 @@
 # Laravel REST API - Manajemen Kontak
 Tugas Pemrograman Internet Pertemuan 5 - Muhammad Izzanurdin Hasan
 
-## Cara Menjalankan Project 
+## Cara Menjalankan Project
 1. Clone repository ini.
 2. Buka terminal dan jalankan `composer install`
 3. Copy file `.env.example` menjadi `.env`
